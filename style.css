@@ -78,4 +78,5 @@ header nav a {
 #toggle {
   background: transparent;
   border-style: none;
+  outline: none;
 }
